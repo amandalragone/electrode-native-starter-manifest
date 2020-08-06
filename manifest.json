@@ -1,6 +1,10 @@
 {
   "default": {
     "targetNativeDependencies": [
+        "react-native-electrode-bridge@1.5.25",
+        "react-native-ernmovie-api@0.0.11",
+        "react-native-ernmovie-api-impl@0.0.16",
+        "react-native-ernnavigation-api@0.0.5"
     ],
     "targetJsDependencies": [
     ]
